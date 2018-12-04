@@ -81,12 +81,28 @@
 
 
 
+
+
 ## 表 5-2 有氧运动一般建议
 
-FIIT-VP
+### FITT-VP
+
+- Frequency
+- Intensity
+- Time
+- Type
+- Volume
+- Progress
 
 
 
 ## 表 5-3 抗组运动一般建议
 
-FIIT-VP
+### FITT-VP
+
++ Frequency
++ Intensity
++ Time
++ Type
++ Volume
++ Progress
