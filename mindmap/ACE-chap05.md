@@ -1,6 +1,6 @@
 # ACE-IFT 训练模型
 
-
+## IFT-Integrated Fitness Training
 
 ## 功能-健康-体适能-运动表现体系
 
