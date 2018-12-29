@@ -3,7 +3,7 @@
 书中很多章节里面会有红框标注的重要概念，而第五章全部都是重要概念。
 
 Table of Contents
-=================
+-----------------
 
    * [ACE-IFT 训练模型](#ace-ift-训练模型)
       * [IFT-Integrated Fitness Training](#ift-integrated-fitness-training)
