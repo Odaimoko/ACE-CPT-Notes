@@ -2,9 +2,7 @@
 
 书中很多章节里面会有红框标注的重要概念，而第五章全部都是重要概念。
 
-Table of Contents
------------------
-
+<!--ts-->
    * [ACE-IFT 训练模型](#ace-ift-训练模型)
       * [IFT-Integrated Fitness Training](#ift-integrated-fitness-training)
       * [表 5-1 传统与当代生理训练参数](#表-5-1-传统与当代生理训练参数)
@@ -23,6 +21,10 @@ Table of Contents
       * [特殊人群客户](#特殊人群客户)
          * [一般指南](#一般指南)
          * [目标](#目标)
+
+<!-- Added by: oda, at:  -->
+
+<!--te-->
 
 ## IFT-Integrated Fitness Training
 
