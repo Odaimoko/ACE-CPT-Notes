@@ -28,7 +28,7 @@
 
 [ACE-chap05.md](ACE-Notes/ACE-chap05.md)
 
-[ACE-chap06.md](ACE-Notes/ACE-chap06.md)，整理到“药物”。
+[ACE-chap06.md](ACE-Notes/ACE-chap06.md)
 
 [ACE-chap07.md](ACE-Notes/ACE-chap07.md)，仅大纲
 
