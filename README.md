@@ -32,9 +32,9 @@
 
 [ACE-chap07第一部分.md](ACE-Notes/ACE-chap07-1.md)，[第二部分](ACE-Notes/ACE-chap07-2.md)，[第三部分](ACE-Notes/ACE-chap07-3.md)。
 
-[ACE-chap08.md](ACE-Notes/ACE-chap08.md)，仅大纲
+[ACE-chap08.md](ACE-Notes/ACE-chap08.md)，整理到`心肺适能`。
 
-[ACE-chap09.md](ACE-Notes/ACE-chap09.md)，部分。
+[ACE-chap09.md](ACE-Notes/ACE-chap09.md)，整理到`近端灵活性：臀部和胸椎`。
 
 ## EES
 
