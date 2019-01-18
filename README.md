@@ -2,6 +2,10 @@
 
 ## 目录
 
+### ACE 教材扫描版
+[百度网盘](https://pan.baidu.com/s/1wOUXhn3AoFnvhbcqRHJqyg)
+
+
 ### ACE 导图
 
 [ACE-chap04.pdf](Mindmap/ACE-chap04.pdf)
@@ -35,6 +39,9 @@
 [ACE-chap08.md](ACE-Notes/ACE-chap08.md)，整理到`心肺适能`。
 
 [ACE-chap09.md](ACE-Notes/ACE-chap09.md)，整理到`近端灵活性：臀部和胸椎`。
+
+
+[ACE-chap10](ACE-Notes/ACE-chap10.md)，整理到`训练参数`。
 
 ## EES
 
