@@ -41,7 +41,7 @@
 [ACE-chap09.md](ACE-Notes/ACE-chap09.md)，整理到`近端灵活性：臀部和胸椎`。
 
 
-[ACE-chap10](ACE-Notes/ACE-chap10.md)，整理到`训练参数`。
+[ACE-chap10](ACE-Notes/ACE-chap10.md)，整理到`ACE-IFT 第二期`。
 
 ## EES
 
