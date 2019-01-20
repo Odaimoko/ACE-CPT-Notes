@@ -38,7 +38,7 @@
 
 [ACE-chap08 第一部分](ACE-Notes/ACE-chap08-1.md)，[第二部分](ACE-Notes/ACE-chap08-2.md)。
 
-[ACE-chap09 第一部分](ACE-Notes/ACE-chap09-1.md)，[第二部分](ACE-Notes/ACE-chap09-2.md)，整理到`肩胛稳定和盂肱关节的灵活性`。
+[ACE-chap09 第一部分](ACE-Notes/ACE-chap09-1.md)，[第二部分](ACE-Notes/ACE-chap09-2.md)。
 
 
 [ACE-chap10 第一部分](ACE-Notes/ACE-chap10-1.md)，[第二部分](ACE-Notes/ACE-chap10-2.md)，整理到`ACE-IFT 第二期`。
