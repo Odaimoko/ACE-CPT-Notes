@@ -44,6 +44,7 @@
 [ACE-chap10 第一部分](ACE-Notes/ACE-chap10-1.md)，[第二部分](ACE-Notes/ACE-chap10-2.md)，整理到`ACE-IFT 第二期`。
 
 [ACE-chap11](ACE-Notes/ACE-chap11.md)。
+详细的心率计算在第十一章。
 
 ## EES
 
