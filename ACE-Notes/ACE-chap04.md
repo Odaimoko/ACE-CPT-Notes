@@ -103,10 +103,6 @@
 
 
 
-
-
-
-
 ### 行为变化的转化理论模型（TTM）
 
 Transtheoretical Model of Behavior Change。运用的时候一定要定位客户的阶段。
