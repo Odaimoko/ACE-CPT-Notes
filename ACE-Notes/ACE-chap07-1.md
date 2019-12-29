@@ -237,6 +237,7 @@ P159
     ![image-20190116091800314](assets/image-20190116091800314.png)
 
     上图最后一句话很奇怪，导致是什么意思？应该是因为吧。
+    （注：英文原文为：serratus anterior is usually tight with scapular protraction and is usually lengthened with scapular winging）
 
     [补充资料](https://www.jianshu.com/p/22175a4720e3)。**翼状**这个术语主要是用来描述**前锯肌无力将肩胛骨固定**于肋骨缘时会发生的情况；真正的翼状肩胛产因是**胸长神经或肌肉本身受损**。这两种都不常见。
 
